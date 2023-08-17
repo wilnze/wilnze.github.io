@@ -40,6 +40,25 @@
 
     <h2>Additional Notes</h2>
     <p>Add any other relevant information, observations, or thoughts.</p>
+    
+<html>
+<head>
+    <title>Daily Report Archive</title>
+</head>
+<body>
+    <h1>Daily Report Archive</h1>
+
+    <ul>
+        <li><a href="report-2023-08-16.html">August 16, 2023</a></li>
+        <li><a href="report-2023-08-15.html">August 15, 2023</a></li>
+        <!-- Add more daily report links here -->
+    </ul>
+
+    <hr>
+    <p><a href="index.html">Back to Today's Report</a></p>
+</body>
+
+
 
     <hr>
     <p><em>Generated using HTML. Date: [17/08/2023]</em></p>
