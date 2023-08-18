@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <script nonce="bp1O7Wp47yc-N3GeHHWCIw">
